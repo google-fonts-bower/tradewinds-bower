@@ -1,0 +1,17 @@
+{
+    "name": "tradewinds-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Sideshow"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/tradewinds-bower.git"
+    },
+    "description": "Trade Winds font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
